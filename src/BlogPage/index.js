@@ -6,7 +6,7 @@ export default class Blog extends Component {
     return (
       <div>
       <Nav/>
-      <div>Bloggggg</div>
+      <div>Blog in progress</div>
       </div>
     )
   }
